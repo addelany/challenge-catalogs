@@ -26,7 +26,7 @@
       "rel": "child",
       "type": "application/json",
       "title": "vera4cast",
-      "href": "https://raw.githubusercontent.com/LTREB-reservoirs/vera4cast/main/catalog/catalog.json"
+      "href": "https://raw.githubusercontent.com/LTREB-reservoirs/vera4cast-catalog/main/catalog.json"
     },
         {
       "rel": "child",
